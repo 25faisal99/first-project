@@ -19,6 +19,7 @@ h2{
     top: 10px;
     background-color: black;
     color: white;
+    text-align: center;
 }
 .div2{
     border: 2px solid green;
